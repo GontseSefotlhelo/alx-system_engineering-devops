@@ -1,2 +1,3 @@
 #!/bin/bash
-e ho $(($TRUEKNOWLEDGE + 128))
+echo $(($TRUEKNOWLEDGE + 128))
+
